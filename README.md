@@ -1,4 +1,4 @@
-#Neural Network using Keras Library for Churn Modeling
+# Neural Network using Keras Library for Churn Modeling
 
 
 Introduction

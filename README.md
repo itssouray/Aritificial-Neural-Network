@@ -3,7 +3,7 @@
 
 Introduction
 
-This project implements a neural network using the Keras library in Python to perform churn modeling. The dataset used for training and testing the model contains 14 columns and more than 1000 rows. The algorithm uses the ReLU activation function with two hidden layers and one input layer. The optimizer used is Adamax, and the loss function is binary crossentropy, which is commonly used for classification problems. The output layer contains a sigmoid function as the activation function.
+This project implements a neural network using the Keras library in Python to perform churn modeling. The dataset used for training and testing the model contains 14 columns and more than 10000 rows. The algorithm uses the ReLU activation function with two hidden layers and one input layer. The optimizer used is Adamax, and the loss function is binary crossentropy, which is commonly used for classification problems. The output layer contains a sigmoid function as the activation function.
 
 
 Requirements

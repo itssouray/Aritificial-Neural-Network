@@ -32,7 +32,7 @@ The churn modeling dataset used in this project contains 14 columns, including c
 
 Model Architecture
 
-The neural network consists of two hidden layers and one input layer. The input layer has 14 nodes, one for each feature in the dataset. The two hidden layers have 6 and 4 nodes, respectively. The output layer has 1 node, which predicts whether the customer will churn or not. The ReLU activation function is used for the hidden layers, and the sigmoid function is used for the output layer.
+The neural network consists of one hidden layers and one input layer. The input layer has 11 nodes, one for each feature in the dataset. The two hidden layers have 6  respectively. The output layer has 1 node, which predicts whether the customer will churn or not. The ReLU activation function is used for the hidden layers, and the sigmoid function is used for the output layer.
 
 
 
